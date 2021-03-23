@@ -6,7 +6,7 @@ Bot tworzony dłuższy czas temu dla serwera ExileRP. Aktualnie kilka serwerów 
 
 
 # Uruchomienie
-W zależności od tego, czy bot stoi na linuxie, czy windowsie zasada jest inna. Odsyłam do poradników, ja tylko udostępniam gotowego bota, do którego wystarczy wkleić odpowiednie ID kanałów ze swojego Discorda.
+W zależności od tego, czy bot stoi na linuxie, czy windowsie zasada jest inna. Odsyłam do poradników, ja tylko udostępniam gotowego bota, do którego wystarczy wkleić odpowiednie ID kanałów ze swojego Discorda. PAMIĘTAJCIE O UZUPEŁNIENIU CONFIGU O TOKEN BOTA.
 
 
 # Licencja
